@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mussab Ahmad</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussabahmad22&label=Profile%20views&color=0e75b6&style=flat" alt="mussabahmad22" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mussabahmad22" target="blank"><img src="https://img.shields.io/twitter/follow/mussabahmad22?logo=twitter&style=for-the-badge" alt="mussabahmad22" /></a> </p>
 
-- 🔭 I’m currently working on **Differnt Types of Projects**
+- 🔭 I’m currently working on **Different Types of Projects**
 
 - 🌱 I’m currently learning **NodeJS**
 
